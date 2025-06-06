@@ -1,5 +1,7 @@
 # AtliQ Grands Revenue Performance Dashboard
 
+https://github.com/Imgourav007/Dashboard_HospitalityDomain/blob/38ce61555ade04d32453c9aa183180b9b99ff130/Hospitality%20Dashboard%20img.png
+
 ## Problem Statement:
 AtliQ Grands, a luxury hotel chain operating across India for over two decades, faced a decline in market share and revenue in the luxury/business segment. The root causes included poor strategic decisions, lack of timely performance tracking, and absence of an in-house analytics team. This limited management’s ability to make data-driven decisions and adapt quickly to competitive pressures.
 
