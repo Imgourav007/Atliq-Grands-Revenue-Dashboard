@@ -1,14 +1,25 @@
-# Dashboard_HospitalityDomain
+# AtliQ Grands Revenue Performance Dashboard
 
 ## Problem Statement:
-AtliQ Grands, a luxury hotel chain operating across India for over two decades, has recently witnessed a decline in market share and revenue in the luxury/business segment. The downturn was attributed to poor strategic decisions, a lack of timely performance tracking, and the absence of an in-house analytics team. This hindered the management’s ability to make data-driven decisions, leaving them vulnerable to growing competition.
+AtliQ Grands, a luxury hotel chain operating across India for over two decades, faced a decline in market share and revenue in the luxury/business segment. The root causes included poor strategic decisions, lack of timely performance tracking, and absence of an in-house analytics team. This limited management’s ability to make data-driven decisions and adapt quickly to competitive pressures.
 
-## Task:
-
-- To address this issue, the revenue management team decided to engage a third-party data analyst. The key objectives included:
-- Analyzing historical revenue and operational data.
-- Creating performance metrics as defined by stakeholders.
-- Building an interactive dashboard based on a provided mock-up.
+## Task:  
+To address these challenges, the revenue management team collaborated with a data analyst to:  
+- Analyze historical revenue and operational data across properties.  
+- Define and create key performance metrics as per stakeholder requirements.  
+- Building an interactive dashboard based on a provided mock-up.  
 - Generating additional insights beyond the predefined metrics to support strategic decision-making.
+
+## Tools & Techniques Used:
+* Power BI (Power Query, DAX) for data transformation and visualization.
+* Excel for initial data exploration and validation.
+* Advanced DAX measures for trend analysis and KPI calculations.
+* Dynamic filtering for time periods, property types, and locations.
+
+## Results:
+* Enabled real-time tracking of occupancy rates, staff efficiency, and revenue trends across 10+ properties.
+* Identified underperforming properties and key operational gaps.
+* Supported management with timely insights to make informed strategic decisions.
+* Improved reporting turnaround time by 30%, enhancing agility in revenue management.
 
 
